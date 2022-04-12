@@ -1,0 +1,11 @@
+C:\Users\think\Desktop\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/10.jpg 13,14,157,147,0
+C:\Users\think\Desktop\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/124.jpg 126,143,270,346,0 88,3,309,140,0
+C:\Users\think\Desktop\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/18.jpg 88,64,313,282,0
+C:\Users\think\Desktop\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/28.jpg 43,49,404,274,0
+C:\Users\think\Desktop\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/47.jpg 40,34,362,209,0
+C:\Users\think\Desktop\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/68.jpg 89,40,351,273,0
+C:\Users\think\Desktop\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/71.jpg 72,41,320,234,0
+C:\Users\think\Desktop\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/72.jpg 93,19,291,273,0
+C:\Users\think\Desktop\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/8.jpg 77,33,259,179,0
+C:\Users\think\Desktop\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/85.jpg 52,33,641,437,0
+C:\Users\think\Desktop\keras-yolo3-master/VOCdevkit/VOC2007/JPEGImages/98.jpg 75,24,376,355,0
